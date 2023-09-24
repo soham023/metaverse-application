@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -10,25 +8,18 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Metaverse-Web-Application
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Desription:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+This is a Next(version - ^13.0.3) Based application created on 24. 09. 2023 with the help of framer-motion and TailwindCSS. Here you can see a UI-UX design of a metaverse application which is probably a future for a metaverse world!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+__Github-Link :__ https://github.com/soham023/metaverse-application
+__Deployed-Link :__ https://metaverse-application.vercel.app/
 
-## Learn More
+![Next Metaverse Application](https://www.dropbox.com/scl/fi/wf33bpmvknmlz1qyhj792/Metaverse-Picture.png?rlkey=pvysvc55is4eerfcrid8aduhz&dl=0)
 
-To learn more about Next.js, take a look at the following resources:
+```
+To watch the Demo video :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://github.com/soham023/SSD-Fitness-Application/assets/74462821/61466b82-7c07-4528-82d8-6d92d40ee69e
