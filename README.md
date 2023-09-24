@@ -22,5 +22,8 @@ __Deployed-Link :__ https://metaverse-application.vercel.app/
 ```
 To watch the Demo video :
 
-https://github.com/soham023/metaverse-application/assets/74462821/18fd57eb-12af-4c4f-a46d-125db1f50976
+
+https://github.com/soham023/metaverse-application/assets/74462821/58a17976-ecf4-4a99-8dcc-94077e5bf4a8
+
+
 
