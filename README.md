@@ -17,7 +17,7 @@ This is a Next(version - ^13.0.3) Based application created on 24. 09. 2023 with
 __Github-Link :__ https://github.com/soham023/metaverse-application
 __Deployed-Link :__ https://metaverse-application.vercel.app/
 
-![Next Metaverse Application](https://www.dropbox.com/scl/fi/wf33bpmvknmlz1qyhj792/Metaverse-Picture.png?rlkey=pvysvc55is4eerfcrid8aduhz&dl=0)
+![Next Metaverse Application](https://ibb.co/gymrpFb)
 
 ```
 To watch the Demo video :
