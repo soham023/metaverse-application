@@ -22,4 +22,8 @@ __Deployed-Link :__ https://metaverse-application.vercel.app/
 ```
 To watch the Demo video :
 
-https://github.com/soham023/SSD-Fitness-Application/assets/74462821/61466b82-7c07-4528-82d8-6d92d40ee69e
+
+
+
+https://github.com/soham023/metaverse-application/assets/74462821/18fd57eb-12af-4c4f-a46d-125db1f50976
+
